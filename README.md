@@ -40,9 +40,9 @@
 - **🔬 Raspberry Pi Pico Projects** – Built **fun and experimental projects** using a **Raspberry Pi Pico** (because I'm broke 😆).  
 
 ## 📊 GitHub Stats  
-<a href="https://github.com/HasnatSafdar">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HasnatSafdar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnatSafdar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<a href="https://github.com/hasnat-professional">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hasnat-professional&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnat-professional&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 ## 📬 Let's Connect  
