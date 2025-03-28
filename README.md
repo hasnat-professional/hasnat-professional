@@ -27,6 +27,9 @@
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=HuggingFace)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-000?&logo=Nextcloud)  
+![Collabora Office](https://img.shields.io/badge/-Collabora%20Office-000?&logo=CollaboraOffice)  
+![pfSense](https://img.shields.io/badge/-pfSense-000?&logo=pfSense)
 
 ## 📌 Notable Projects  
 
