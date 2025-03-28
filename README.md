@@ -28,7 +28,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-000?&logo=Nextcloud)  
-![Collabora Office](https://img.shields.io/badge/-CollaboraOffice-000?&logo=CollaboraOffice)  
+![Collabora Office](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Collabora_Office_Logo.svg/120px-Collabora_Office_Logo.svg.png)
 ![pfSense](https://img.shields.io/badge/-pfSense-000?&logo=pfSense)
 
 ## 📌 Notable Projects  
