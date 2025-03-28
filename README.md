@@ -26,6 +26,7 @@
 ![Ollama](https://img.shields.io/badge/-Ollama-000?&logo=Ollama)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=HuggingFace)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
 ## 📌 Notable Projects  
 
