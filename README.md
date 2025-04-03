@@ -41,7 +41,7 @@
 
 - **⚡ Python Automation & AI Integration** – Developed **Python** projects for **automation**, **daily tasks**, and **network management**, integrating **AI** for enhanced functionality.  
 
-- **🔬 Raspberry Pi Pico Projects** – Built **fun and experimental projects** using a **Raspberry Pi Pico** (because I'm broke 😆).  
+- **🔬 Raspberry Pi Pico Projects** – Built **fun and experimental projects** using a **Raspberry Pi Pico**
 
 ## 📊 GitHub Stats  
 <a href="https://github.com/hasnat-professional">
